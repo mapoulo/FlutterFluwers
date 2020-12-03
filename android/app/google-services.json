@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1093100851845",
+    "firebase_url": "https://flowers-9aaa4.firebaseio.com",
+    "project_id": "flowers-9aaa4",
+    "storage_bucket": "flowers-9aaa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093100851845:android:ae9f0edc60102b6ebdcfec",
+        "android_client_info": {
+          "package_name": "com.example.flowers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093100851845-q5fi304qslau91n59sitm372po3aal6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtQI6BDkaYsll3NaGo2-AzqRmlv6AeTTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093100851845-q5fi304qslau91n59sitm372po3aal6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
